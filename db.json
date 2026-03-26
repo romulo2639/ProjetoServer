@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "Administrador",
+      "cpf": "12345678900",
+      "email": "admin@teste.com",
+      "usuario": "admin",
+      "senha": "123"
+    },
+    {
+      "nome": "jadeuocu",
+      "cpf": "155.555.989-96",
+      "email": "jadeiocu@gmail.com",
+      "senha": "galadecupinto123",
+      "usuario": "jadeiocu",
+      "id": "nJNlAm5afZ8"
+    },
+    {
+      "nome": "a",
+      "cpf": "1",
+      "email": "a@gmail.com",
+      "senha": "1",
+      "usuario": "a",
+      "id": "ou6rRZS7A-U"
+    },
+    {
+      "nome": "2421",
+      "cpf": "42424",
+      "email": "123@gmail.com",
+      "senha": "1234",
+      "usuario": "1",
+      "id": "wcue3aYsoLY"
+    },
+    {
+      "nome": "234234",
+      "cpf": "23434",
+      "email": "234234",
+      "senha": "a123",
+      "usuario": "123",
+      "id": "LtwykwWdDlA"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Marcos Andrade",
+      "phone": "81 988553424",
+      "email": "mand@gmail.com"
+    },
+    {
+      "name": "Patrícia Tavares",
+      "email": "patricia@gmail.com",
+      "phone": "81 998765332",
+      "id": "2"
+    },
+    {
+      "name": "galadecupinto",
+      "email": "galeiocunopinto2011@gmail.com",
+      "phone": "989999999999",
+      "id": "n1fCvgGgV68"
+    },
+    {
+      "name": "s2131232312",
+      "email": "d",
+      "phone": "f",
+      "id": "5KT3IJsTZpA"
+    },
+    {
+      "name": "567567",
+      "email": "756",
+      "phone": "7567",
+      "id": "qmsVOOLDMDU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
